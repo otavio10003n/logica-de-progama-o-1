@@ -1,0 +1,10 @@
+print("Bem vindo ao jogo da forca")
+def jogar() -> object:
+    # type: () -> "'""banana"""
+    print()
+    print("***bem vindo ao  jogo da forca!***")
+    print()
+    palavra_secreta = "banana"
+    print("fim do jogo")
+if (__name__ == "__main__"):
+    jogar()
